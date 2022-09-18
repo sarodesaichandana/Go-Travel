@@ -14,3 +14,9 @@ ABOUT
 ![about](https://user-images.githubusercontent.com/91978134/190917235-b607b370-ec6d-4e7f-b98e-842112a89eaf.PNG)
 
 ![about2](https://user-images.githubusercontent.com/91978134/190917241-ba49901b-abd8-4b86-b6e1-859699737870.PNG)
+
+EXPLORE
+![explore](https://user-images.githubusercontent.com/91978134/190917498-084e8b55-e504-4a38-acb4-3043555cbc17.PNG)
+
+CONTACT
+![conctct](https://user-images.githubusercontent.com/91978134/190917507-6d48b17d-7598-464c-9d20-2b01ecef0d3f.PNG)
